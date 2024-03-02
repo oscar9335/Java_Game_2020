@@ -5,4 +5,4 @@ player have to use the specific item to defeat the corresponeding boss.
 
 # How to play
 ## Game map
-![image]([遊戲截圖\GameMap.png](https://github.com/oscar9335/Java_Game_2020/blob/main/PoorPokemonGo-final/%E9%81%8A%E6%88%B2%E6%88%AA%E5%9C%96/GameMap.png)https://github.com/oscar9335/Java_Game_2020/blob/main/PoorPokemonGo-final/%E9%81%8A%E6%88%B2%E6%88%AA%E5%9C%96/GameMap.png)
+![image](PoorPokemonGo-final/遊戲截圖/GameMap.png)
