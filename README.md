@@ -5,4 +5,4 @@ player have to use the specific item to defeat the corresponeding boss.
 
 # How to play
 ## Game map
-
+![](遊戲截圖\GameMap.png)
