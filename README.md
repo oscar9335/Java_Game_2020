@@ -12,5 +12,5 @@ The player use the arrow key on key board to move the character.
 Once the character encounter the enemy, the battle start.
 
 ## Encounter
-![image](PoorPokemonGo-final/遊戲截圖/Normal battle.png)
+![image]([PoorPokemonGo-final/遊戲截圖/Normal battle.png](https://github.com/oscar9335/Java_Game_2020/blob/670a43cbbe551514d11ec6426dba12022292bc6e/PoorPokemonGo-final/%E9%81%8A%E6%88%B2%E6%88%AA%E5%9C%96/Normal%20battle.png)https://github.com/oscar9335/Java_Game_2020/blob/670a43cbbe551514d11ec6426dba12022292bc6e/PoorPokemonGo-final/%E9%81%8A%E6%88%B2%E6%88%AA%E5%9C%96/Normal%20battle.png)
 You can also find that the status of player and enemy are shown on the screen.
